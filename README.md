@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://media.tenor.com/2l4-h42qnmcAAAAj/toothless-dancing-toothless.gif"  />
+  <img height="150" src="https://media.tenor.com/2l4-h42qnmcAAAAj/toothless-dancing-toothless.gif"  />
 </div>
 
 ###
