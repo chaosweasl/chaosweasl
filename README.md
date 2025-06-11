@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">My name is Daniel! I'm a high school student from Romania, and I aspire to create my own startup to help students achieve their dreams!<br><br>- 🔭 I’m currently unemployed so please feel free to reach out if you're a recruiter! Commissions are also available on my Ko-Fi.<br>- 📚 I'm currently learning how to DevOps-ify my apps, Kubernetes, Docker, and Backend in Rust.<br>- ⚡ If you want to know me more personally, I'm a creator at heart. Whether that's art, photography, an app, or any idea that I want to bring to life, it's the thing I love doing the most. I love making things that are (hopefully) useful to other people. It makes me very happy when I know people use and enjoy something I've made.</p>
+<h3 align="left">My name is Daniel! I'm a high school student from Romania, and I aspire to create my own startup to help students achieve their dreams!<br><br>- 🔭 I’m currently unemployed so please feel free to reach out if you're a recruiter! Commissions are also available on my Ko-Fi.<br>- 📚 I'm currently learning how to DevOps-ify my apps, Kubernetes, Docker, and Backend in Rust.<br>- ⚡ If you want to know me more personally, I'm a creator at heart. Whether that's art, photography, an app, or any idea that I want to bring to life, it's the thing I love doing the most. I love making things that are (hopefully) useful to other people. It makes me very happy when I know people use and enjoy something I've made.</h3>
 
 ###
 
