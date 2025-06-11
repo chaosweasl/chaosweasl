@@ -1,12 +1,10 @@
 <div align="center">
-  <img height="150" src="https://media.tenor.com/2l4-h42qnmcAAAAj/toothless-dancing-toothless.gif"  />
+  <img height="250" src="https://media.tenor.com/2l4-h42qnmcAAAAj/toothless-dancing-toothless.gif"  />
 </div>
 
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/chaosweasl/chaosweasl/output/snake.svg"/>
 
 ###
 
