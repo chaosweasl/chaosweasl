@@ -34,7 +34,33 @@
 
 ###
 
-<h4 align="left">My name is Daniel! I'm a high school student from Romania, and I aspire to create my own startup to help students achieve their dreams!<br><br>- 🔭 I’m currently unemployed so please feel free to reach out if you're a recruiter! Commissions are also available on my Ko-Fi.<br>- 📚 I'm currently learning how to DevOps-ify my apps, Kubernetes, Docker, and Backend in Rust.<br>- ⚡ If you want to know me more personally, I'm a creator at heart. Whether that's art, photography, an app, or any idea that I want to bring to life, it's the thing I love doing the most. I love making things that are (hopefully) useful to other people. It makes me very happy when I know people use and enjoy something I've made.</h4>
+<h4 align="left">My name is Daniel! I'm a high school student from Romania, and I aspire to create my own startup to help students achieve their dreams!</h4>
+<h4>🔭 I’m currently unemployed so please feel free to reach out if you're a recruiter! Commissions are also available on my Ko-Fi.</h4>
+<h4> 📚 I'm currently learning how to DevOps-ify my apps with tools like Github Actions, Kubernetes and Docker. I'm also learning Backend in Rust for my latest app Interva (you can find this in my repositories. It's the first pinned repository 😉.</h4>
+<h4>⚡ If you want to know me more personally, I'm a creator at heart. Whether that's art, photography, an app, or any idea that I want to bring to life, it's the thing I love doing the most. I love making things that are (hopefully) useful to other people. It makes me very happy when I know people use and enjoy something I've made.</h4>
+
+<h4 align="left">
+  If you're a recruiter, I suggest you check out these projects! 
+</h4>
+  
+<ul>
+  <li>
+  https://github.com/chaosweasl/interva
+  </li>
+  <li>
+  https://github.com/chaosweasl/cards
+  </li>
+  <li>
+  https://github.com/chaosweasl/auth-page    
+  </li>
+</ul>
+  
+</h4>
+  Of course, I have other projects as well, but I've learnt the most from making these ones. 
+  Feel free to check out the rest too :) 
+</h4>
+
+<h4><s>I use Kali Linux sometimes btw</s> 😉</h4>
 
 ###
 
