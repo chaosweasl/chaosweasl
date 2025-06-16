@@ -46,6 +46,9 @@
 <h3 align="left">
 <ul>
   <li>
+    https://github.com/chaosweasl/paideia (currently WIP, but it will be my most valuable project thus far)
+  </li>
+  <li>
   https://github.com/chaosweasl/interva
   </li>
   <li>
