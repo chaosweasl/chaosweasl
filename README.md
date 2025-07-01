@@ -62,8 +62,18 @@
   
 <h3 align="left">
   Of course, I have other projects as well, but I've learnt the most from making these ones. <br>
+  Here's also an amalgamation of random tools and scripts that I've been building lately for random stuff <br>
+
+  ---
+  
+  https://github.com/chaosweasl/not-enough-projects
+
+  ---
+  
   Feel free to check out the rest too :) 
 </h3>
+
+
 
 <h4><s>I use Kali Linux sometimes btw</s> 😉</h4>
 
