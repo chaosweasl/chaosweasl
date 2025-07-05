@@ -44,7 +44,7 @@ Ahoy! My name is **Daniel** — I'm a high school student from **Romania** with 
 
 If you're a recruiter or just curious, check out some of the projects I'm most proud of:
 
-- 🌱 [**Paideia**](https://github.com/chaosweasl/paideia)  
+- 🌱 [**Cognify**](https://github.com/chaosweasl/cognify)  
   _Work in progress — this will be my most ambitious project yet!_
 - ⏱️ [**Interva**](https://github.com/chaosweasl/interva)  
   _A productivity timer app (with a potential backend in Rust)._
