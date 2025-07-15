@@ -61,7 +61,6 @@ And if you’re just looking for an idea playground...
 ## ⚡ Fun Fact
 
 ~~I use Kali Linux sometimes~~ 😉  
-Hacker vibes included.
 
 ---
 
