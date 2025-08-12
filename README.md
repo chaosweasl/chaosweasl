@@ -45,11 +45,13 @@ Ahoy! My name is **Daniel** — I'm a high school student from **Romania** with 
 If you're a recruiter or just curious, check out some of the projects I'm most proud of:
 
 - 🌱 [**Cognify**](https://github.com/chaosweasl/cognify)  
-  _Work in progress — this will be my most ambitious project yet!_
+  _A flashcard app with an SM-2 algorithm similar to Anki, but web-based. Work in progress — this will be my most ambitious project yet!_
 - ⏱️ [**Interva**](https://github.com/chaosweasl/interva)  
   _A productivity timer app (with a potential backend in Rust)._
+- 📢 [**Not Enough Accountability**](https://github.com/chaosweasl/not-enough-accountability)  
+  _An Electron app that keeps you accountable by sending webhook messages to Discord channels if you’re slacking off or not working during check-in times._
 - 🃏 [**Cards**](https://github.com/chaosweasl/cards)  
-  _A fun blackjack web game with user authentication._ (deprecated + no longer maintained)
+  _A fun blackjack web game with user authentication._ (broken + no longer maintained, but you can take a peek at the source code)
 
 And if you’re just looking for an idea playground...
 
