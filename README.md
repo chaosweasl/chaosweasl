@@ -45,7 +45,7 @@ Ahoy! My name is **Daniel** — I'm a high school student from **Romania** with 
 If you're a recruiter or just curious, check out some of the projects I'm most proud of:
 
 - 🌱 [**Cognify**](https://github.com/chaosweasl/cognify)  
-  _A flashcard app with an SM-2 algorithm similar to Anki, but web-based. Work in progress — this will be my most ambitious project yet!_
+  _A flashcard tool with an SM-2 algorithm similar to Anki, but web-based & with AI integration. Work in progress — this will be my most ambitious project yet!_
 - ⏱️ [**Interva**](https://github.com/chaosweasl/interva)  
   _A productivity timer app (with a potential backend in Rust)._
 - 📢 [**Not Enough Accountability**](https://github.com/chaosweasl/not-enough-accountability)  
