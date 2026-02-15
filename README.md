@@ -15,7 +15,7 @@
 ahoy! my name is **Daniel**. I'm a high school student from **Romania** with big dreams of optimising education using tech
 
 ### What I'm Up To:
-- 🔭 **unemployed** - looking for (any kind of) opportunities
+- 🔭 **LFO** - im looking for (any kind of) opportunities
 - 🛠️ **experimenting** with new AI tools to see what the hype is about.
 - 💻 **creating** an app for students on the side. think apps like anki, quizlet but better, optimised, with more features, better UI and that uses psychological cues to help students enter 'work mode'
 
