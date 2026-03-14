@@ -8,11 +8,11 @@
   </a>
 </div>
 
----
-
 ## About Me
 
 ahoy! my name is **Daniel**. I'm a high school student from **Romania** with big dreams of optimising education using tech
+
+developing full-stack projects since january 2025
 
 **i'm open for work!**
 
