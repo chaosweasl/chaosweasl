@@ -45,6 +45,6 @@ Check out my [portfolio](https://chaosweasl.com) for the full list.
 
 [![GitHub](https://img.shields.io/badge/GitHub-chaosweasl-181717?style=flat&logo=github)](https://github.com/chaosweasl)
 [![Instagram](https://img.shields.io/badge/Instagram-@virtuesfound-E4405F?style=flat&logo=instagram)](https://www.instagram.com/virtuesfound/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-weasl.dev-FFC480?style=flat&logo=svelte)](https://chaosweasl.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-chaosweasl.com-FFC480?style=flat&logo=svelte)](https://chaosweasl.com)
 [![Email](https://img.shields.io/badge/Email-17daniel.dev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:17daniel.dev@gmail.com)
 
