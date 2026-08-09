@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Daniel (aka weasl)
 
-I build things when I'm bored which is pretty much all the time
-Developer and Business & IT student at UTwente
+<p> I build things when I'm bored which is pretty much all the time</p>
+<p>Developer and Business & IT student at UTwente</p>
 
 ## 🛠️ Tech Stack
 
