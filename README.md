@@ -1,7 +1,7 @@
 # 👋 hi! im weasl!
 
 <p>i make things when i have the time</p>
-<p>student</p>
+<p>student @ uni of twente</p>
 
 ## 🛠️ Tech Stack
 
