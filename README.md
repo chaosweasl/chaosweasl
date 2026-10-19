@@ -1,7 +1,7 @@
-# 👋 Hey, I'm Daniel (aka weasl)
+# 👋 hi! im weasl!
 
-<p>chronically bored so i make things</p>
-<p>Developer and Business & IT student at UTwente</p>
+<p>i make things when i have the time</p>
+<p>student</p>
 
 ## 🛠️ Tech Stack
 
